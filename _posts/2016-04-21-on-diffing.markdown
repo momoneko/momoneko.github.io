@@ -5,7 +5,7 @@ date:   2016-04-21
 categories: programming cheats
 ---
 
-For a long timeI have been suspicious of diffing two source code. Never
+For a long timeI have been suspicious of diffing two source code files. Never
 understood how diffing two files help you to understand what exactly has
 changed unless you actually know the code and can see almost at a glance what
 happens and you don't really need diffing any longer. (Obviously, diffing is
